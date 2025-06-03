@@ -1,1 +1,1 @@
-console.log('Here comes troubles')
+console.log('Here comes trouble')
